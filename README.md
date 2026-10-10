@@ -1,4 +1,4 @@
-﻿# 🖥️ C# Windows Forms & Görsel Programlama – 14 Haftalık Proje ve Ödev Arşivi
+﻿#  C# Windows Forms & Görsel Programlama – 14 Haftalık Proje ve Ödev Arşivi
 
 Bu repository, üniversite **Görsel Programlama / C#** dersi kapsamında 14 hafta boyunca geliştirilen laboratuvar çalışmaları, "Sıra Sizde" ödevleri ve veritabanı destekli otomasyon projelerini içermektedir.
 
@@ -6,7 +6,7 @@ Temel form kontrollerinden başlayarak, algoritma kurma, koleksiyon/dizi yöneti
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **Dil:** C# (.NET Framework)
 - **Arayüz:** Windows Forms (WinForms)
@@ -15,7 +15,7 @@ Temel form kontrollerinden başlayarak, algoritma kurma, koleksiyon/dizi yöneti
 
 ---
 
-## 📚 Haftalık Müfredat ve İçerik Tablosu
+##  Haftalık Müfredat ve İçerik Tablosu
 
 | Hafta | Konu Başlığı | İçerilen Uygulamalar |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Temel form kontrollerinden başlayarak, algoritma kurma, koleksiyon/dizi yöneti
 
 ---
 
-## 🚀 Projeyi Çalıştırma
+##  Projeyi Çalıştırma
 
 1. Bilgisayarınızda **Visual Studio** yüklü olduğundan emin olun (.NET masaüstü geliştirme paketiyle).
 2. YeniProje.sln dosyasını Visual Studio ile açın.
@@ -45,5 +45,6 @@ Temel form kontrollerinden başlayarak, algoritma kurma, koleksiyon/dizi yöneti
 
 ---
 
-## 👨‍💻 Geliştirici
+## 
+Geliştirici
 - **Bahadır Karasu** - [GitHub Profili](https://github.com/bahadirkarasu)
